@@ -42,12 +42,6 @@ const Certifications = ({ darkMode }: CertificationsProps) => {
       link: '#',
       icon: '⚛️',
     },
-    {
-      title: 'LeetCode & CodeChef',
-      issuer: 'Competitive Programming',
-      link: '#',
-      icon: '🏆',
-    },
   ];
 
   return (
